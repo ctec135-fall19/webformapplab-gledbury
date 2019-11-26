@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinglePageMode", "SinglePageMode\SinglePageMode.csproj", "{4794D899-0B01-4DB7-A819-63487BC897E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotDAL", "AutoLotDAL.csproj", "{76EBA30B-7574-4562-9746-E0EDC6A31E78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4794D899-0B01-4DB7-A819-63487BC897E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4794D899-0B01-4DB7-A819-63487BC897E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4794D899-0B01-4DB7-A819-63487BC897E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4794D899-0B01-4DB7-A819-63487BC897E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76EBA30B-7574-4562-9746-E0EDC6A31E78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76EBA30B-7574-4562-9746-E0EDC6A31E78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76EBA30B-7574-4562-9746-E0EDC6A31E78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76EBA30B-7574-4562-9746-E0EDC6A31E78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A87D67A-926A-41E8-A3C6-C6655DB6E9D0}
+	EndGlobalSection
+EndGlobal
